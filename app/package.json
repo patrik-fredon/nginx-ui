@@ -37,7 +37,7 @@
     "reconnecting-websocket": "^4.4.0",
     "sortablejs": "^1.15.3",
     "universal-cookie": "^7.2.0",
-    "vite-plugin-build-id": "0.4.2",
+    "vite-plugin-build-id": "0.5.0",
     "vue": "^3.5.11",
     "vue-router": "^4.4.5",
     "vue3-ace-editor": "2.2.4",
