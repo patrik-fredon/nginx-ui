@@ -15,7 +15,7 @@
     "@ant-design/icons-vue": "^7.0.1",
     "@formkit/auto-animate": "^0.8.2",
     "@simplewebauthn/browser": "^10.0.0",
-    "@vue/reactivity": "^3.5.11",
+    "@vue/reactivity": "^3.5.21",
     "@vue/shared": "^3.5.11",
     "@vueuse/components": "^11.1.0",
     "@vueuse/core": "^11.1.0",
