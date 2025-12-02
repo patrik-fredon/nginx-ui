@@ -33,7 +33,7 @@
     "marked-highlight": "^2.1.4",
     "nprogress": "^0.2.0",
     "pinia": "^2.2.4",
-    "pinia-plugin-persistedstate": "^4.1.1",
+    "pinia-plugin-persistedstate": "^4.7.1",
     "reconnecting-websocket": "^4.4.0",
     "sortablejs": "^1.15.3",
     "universal-cookie": "^7.2.0",
